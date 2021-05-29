@@ -1,2 +1,2 @@
 # youtube_downloader
-Download Youtube videos and even can complete playlist
+Download YouTube videos and even can complete playlist
